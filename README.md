@@ -1,2 +1,7 @@
 # php framework
- a basic php MVC framework i use for my php projects
+***
+>Very basic and minimal  
+
+>No documentation  
+
+>Needs improvement  
